@@ -11,4 +11,4 @@ Code will be available soon.
 
 ## 招聘
 
-团队正在招聘2022届校招实习生。方向涉及视觉Transformer、AutoML/NAS。感兴趣的同学请发简历至 chuxiangxiang@meituan.com
+团队正在招聘2022届校招实习生。方向涉及计算机视觉、AutoML/NAS。感兴趣的同学请发简历至 chuxiangxiang@meituan.com
