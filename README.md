@@ -6,7 +6,7 @@ We propose a conditional positional encoding (CPE) scheme for vision Transformer
 
 ![compared with DeiT](figures/sota-comparison.png)
 
-Code will be released along with our latest work [Twins](https://github.com/Meituan-AutoML/Twins)
+2021-4-30 Note: Code will be released along with our latest work [Twins](https://github.com/Meituan-AutoML/Twins).
 
 ## 招聘
 
