@@ -6,9 +6,21 @@ We propose a conditional positional encoding (CPE) scheme for vision Transformer
 
 ![compared with DeiT](figures/sota-comparison.png)
 
-Code will be available soon.
-
+Code will be released along with our latest work [Twins](https://github.com/Meituan-AutoML/Twins)
 
 ## 招聘
 
 团队正在招聘2022届校招实习生。方向涉及计算机视觉、AutoML/NAS。感兴趣的同学请发简历至 chuxiangxiang@meituan.com
+
+
+## Citation
+
+```
+@article{chu2021conditional,
+	title={Conditional Positional Encodings for Vision Transformers},
+	author={Xiangxiang Chu and Zhi Tian and Bo Zhang and Xinlong Wang and Xiaolin Wei and Huaxia Xia and Chunhua Shen},
+	journal={Arxiv preprint 2102.10882},
+	url={https://arxiv.org/pdf/2102.10882.pdf},
+	year={2021}
+}
+```
